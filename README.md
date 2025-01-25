@@ -1,7 +1,7 @@
 โค้ดนี้ใช้อุปกรณ์ดังนี้:
-1. บอร์ด Arduino (Arduino UNO หรือ Nano)
-2. เซ็นเซอร์วัดระยะทาง HC-SR04
-3. จอ LCD I2C ขนาด 16x2
+1. บอร์ด Arduino (Arduino UNO หรือ Nano) https://s.shopee.co.th/2LIweABVmT
+2. เซ็นเซอร์วัดระยะทาง HC-SR04 https://s.shopee.co.th/9Um7BNnpSa
+3. จอ LCD I2C ขนาด 16x2 https://s.shopee.co.th/8zpqaYMQfw
 4. ปุ่มกด 1 ตัว
 
 การต่อวงจร:
